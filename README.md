@@ -6,35 +6,35 @@ Este projeto em Java permite ao usuário calcular áreas de diferentes formas ge
 
 ## Funcionalidades
 
--Escolha entre as formas:
+- Escolha entre as formas:
 
--Círculo
+- Círculo
 
--Retângulo
+- Retângulo
 
--Quadrado
+- Quadrado
 
--Entrada de valores via teclado (Scanner)
+- Entrada de valores via teclado (Scanner)
 
--Cálculo da área utilizando o método formula() da interface GeometricForms
+- Cálculo da área utilizando o método formula() da interface GeometricForms
 
--Uso de lambda expressions para organizar as ações do menu
+- Uso de lambda expressions para organizar as ações do menu
 
--Estrutura simples, limpa e fácil de expandir
+- Estrutura simples, limpa e fácil de expandir
 
 ---
 
 ## Tecnologias Utilizadas
 
--Java 17+
+- Java 17+
 
--Programação Orientada a Objetos
+- Programação Orientada a Objetos
 
--Interfaces
+- Interfaces
 
--Lambdas (Runnable)
+- Lambdas (Runnable)
 
--Estruturas de repetição e decisão
+- Estruturas de repetição e decisão
 
 ---
 
